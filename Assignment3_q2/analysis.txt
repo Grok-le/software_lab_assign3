@@ -11,3 +11,5 @@ Karan - 81
 Rohit - 83
 Isha - 90
 Meera - 87
+Average Marks: 82
+Number of Students: 10
