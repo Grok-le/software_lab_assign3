@@ -1,0 +1,16 @@
+Student Marks Report
+
+Aman    - 78
+Riya    - 85
+Rahul   - 67
+Ananya  - 92
+Vivek   - 74
+Neha    - 88
+Arjun   - 69
+Priya   - 95
+Karan   - 81
+Simran  - 76
+Rohit   - 83
+Isha    - 90
+Highest Marks: Priya - 95
+Lowest Marks: Rahul - 67.5
