@@ -1,6 +1,6 @@
 Student Marks Report
 
-Aman    - 78
+Aman    - 79
 Riya    - 85
 Rahul   - 67
 Ananya  - 92
