@@ -1,7 +1,7 @@
 Student Marks Report
 
 Aman    - 80
-Riya    - 90
+Riya    - 89
 Rahul   - 67
 Ananya  - 92
 Vivek   - 74
