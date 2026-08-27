@@ -1,10 +1,8 @@
 Student Performance Analysis
-
 Total Students: 14
-
 Students scoring above 80:
 Riya - 85
-Ananya - 92
+Ananya - 80
 Neha - 88
 Priya - 95
 Karan - 81
